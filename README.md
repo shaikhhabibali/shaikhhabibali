@@ -3,7 +3,7 @@
 <img src="./assets/profile-banner.svg" alt="Shaikh Habib Ali profile banner" width="100%">
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=shaikhhabibali&label=Profile%20Views&color=0969da&style=flat-square" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=shaikhhabibali&label=Profile%20Views&color=0969da&style=flat-square&v=2" alt="Profile views">
 </p>
 
 👋 Hi, I'm Shaikh Habib Ali
@@ -94,7 +94,7 @@ Git/GitHub based development workflow
 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaikhhabibali&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Shaikh Habib Ali GitHub trophies">
+  <img src="./assets/trophy.svg" alt="Shaikh Habib Ali GitHub trophies" width="100%">
 </p>
 
 📊 GitHub Analytics
@@ -162,11 +162,15 @@ Note: Language cards reflect code distribution across eligible public repositori
   </a>
 </p>
 
-🔝 Top Contributed Repository
+🔝 Project Showcase
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=shaikhhabibali&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributed repositories">
+  <a href="https://github.com/shaikhhabibali/ELECTROCART">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhhabibali&repo=ELECTROCART&hide_border=true&theme=transparent&title_color=0969da&text_color=8b949e" alt="ELECTROCART repository">
+  </a>
 </p>
+
+ELECTROCART is the main project currently highlighted on my profile.
 
 🌐 Socials
 
