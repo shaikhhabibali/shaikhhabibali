@@ -1,0 +1,39 @@
+<svg width="1584" height="396" viewBox="0 0 1584 396" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1584" y2="396" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0B1020"/>
+    <stop offset="0.55" stop-color="#111827"/>
+    <stop offset="1" stop-color="#07111F"/>
+  </linearGradient>
+  <linearGradient id="line" x1="140" y1="50" x2="1450" y2="350" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0969DA" stop-opacity="0.1"/>
+    <stop offset="0.5" stop-color="#58A6FF" stop-opacity="0.8"/>
+    <stop offset="1" stop-color="#0969DA" stop-opacity="0.1"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="14" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1584" height="396" rx="28" fill="url(#bg)"/>
+<circle cx="1340" cy="90" r="150" fill="#0969DA" fill-opacity="0.10" filter="url(#glow)"/>
+<circle cx="250" cy="330" r="190" fill="#58A6FF" fill-opacity="0.06" filter="url(#glow)"/>
+<path d="M0 310 C260 170 420 390 690 240 C930 105 1120 310 1584 120" stroke="url(#line)" stroke-width="2"/>
+<path d="M0 345 C270 205 455 410 720 265 C980 125 1190 325 1584 155" stroke="#58A6FF" stroke-opacity="0.14"/>
+<g opacity="0.65">
+  <circle cx="1180" cy="80" r="3" fill="#58A6FF"/>
+  <circle cx="1220" cy="120" r="2" fill="#58A6FF"/>
+  <circle cx="1290" cy="62" r="2" fill="#58A6FF"/>
+  <circle cx="1370" cy="145" r="3" fill="#58A6FF"/>
+  <circle cx="1450" cy="95" r="2" fill="#58A6FF"/>
+</g>
+<text x="105" y="175" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">SHAIKH HABIB ALI</text>
+<text x="108" y="225" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="24">IMCA Student  •  Software &amp; Web Development  •  Data Analytics  •  AI &amp; ML</text>
+<rect x="108" y="255" width="455" height="4" rx="2" fill="#0969DA"/>
+<text x="108" y="300" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="17">LEARN  •  BUILD  •  ANALYZE  •  IMPROVE</text>
+<g transform="translate(1275 215)">
+  <rect width="170" height="92" rx="16" fill="#0D1117" stroke="#30363D"/>
+  <text x="20" y="34" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="14">FOCUS</text>
+  <text x="20" y="62" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">BUILD • LEARN</text>
+</g>
+</svg>
