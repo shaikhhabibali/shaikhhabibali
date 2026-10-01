@@ -104,8 +104,9 @@ Note: The language card reflects code distribution across eligible public reposi
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
-    <img src="./assets/lifetime.light.svg" alt="Shaikh Habib Ali's GitHub contribution activity" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/lifetime.dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/lifetime.light.svg">
+    <img src="assets/lifetime.dark.svg" alt="Shaikh Habib Ali's GitHub contribution activity">
   </picture>
 </p>
 
