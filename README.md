@@ -29,7 +29,7 @@ IMCA Student · Software & Web Development · Data Analytics · AI & ML Learner
 
 🤖 Currently learning AI & Machine Learning.
 
-🌱 Interested in software development, data analytics, and practical AI applications.
+🌱 Interested in software development, data analytics and practical AI applications.
 
 🧩 I enjoy learning through hands-on projects and solving practical problems.
 
